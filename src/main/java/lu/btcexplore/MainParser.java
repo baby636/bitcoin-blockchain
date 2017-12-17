@@ -1,4 +1,4 @@
-package com.testbtc;
+package lu.btcexplore;
 
 import org.bitcoinj.core.Block;
 import org.bitcoinj.core.Context;
